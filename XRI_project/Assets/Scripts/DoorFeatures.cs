@@ -56,7 +56,7 @@ public class DoorFeatures : CoreFeatures
             OpenDoor();
         }                                                );
 
-        OpenDoor();
+      
     }
 
    
